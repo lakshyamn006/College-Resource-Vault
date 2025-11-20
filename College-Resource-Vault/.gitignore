@@ -1,0 +1,12 @@
+# System / Editor
+.DS_Store
+.vscode/
+*.swp
+
+# Build / binaries
+*.class
+*.o
+*.exe
+
+# Credentials
+.env
